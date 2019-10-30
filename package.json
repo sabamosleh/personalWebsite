@@ -1,0 +1,14 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "saba's personal portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "author": "Saba Mosleh",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
